@@ -179,11 +179,11 @@ class _MyHomePageState extends State<MyHomePage> {
 
 ```
 
-### Support
+### Support ℹ️
 
 If you encounter any issues or have questions, please contact our support team at [support@telr.com](mailto:support@telr.com).
 
-### Contributions
+### Contributions 👨‍💻
 
 Contributions to the SDK are welcome! You can open an issue or submit a pull request on GitHub if you have any improvements or bug fixes.
 
